@@ -1,0 +1,9 @@
+name: ADUXX-HELPOP
+version: '1.0'
+main: dev.Aduxx.aduxx.ADUXXHELPOP
+api-version: '1.19'
+description: Plugin na helpop z integracją discord
+author: [Aduxx]
+website: dc.gg/aduxxplugins
+commands:
+  helpop:

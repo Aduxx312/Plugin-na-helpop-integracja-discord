@@ -1,0 +1,31 @@
+## Aduxx Helpop config
+
+# Id kanału na ktorym beda wyswietlane wiadomosci
+CHANNEL_ID: "1343951073936670784"
+# Token bota discord
+BOT_TOKEN: "MTM0Mzk1MTMyOTMxMTA2NDA2NQ.GbZ5vQ.oQfwW4uM93cBMvPuucvAYoYYc4_Cy1Va3JE1l8"
+
+embed-title: "Twojserwer.pl"
+
+bot-activity: "W grze twoj twojserwer.pl"
+
+embed-description:
+  - "Gracz [PLAYER]"
+  - "Wiadomosc: [MESSAGE]"
+
+embed-color: "#0099FF"
+#zdjecie ktore ma byc wyswietlane w gornym lewym rogu
+embed-thumbnail-url: ""
+
+helpop-usage: "&6Poprawne użycie /helpop <wiadomość>"
+
+helpop-send: "&aWysłano wiadomość"
+
+helpop-receive: "&8[&cHelpop&8] &7gracz [PLAYER] napisał: [MESSAGE]"
+
+helpop-receive-permission: "aduxx.helpop"
+
+cooldown: 10
+
+cooldown-message: "&cPoczekaj [TIME] &7przed napisaniem kolejnej wiadomsci!"
+
