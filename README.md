@@ -1,1 +1,1 @@
-" Prosty plugin na helpop z integracja discord 
+ Prosty plugin na helpop z integracją discord 
