@@ -1,1 +1,1 @@
- Prosty plugin na helpop z integracją discord 
+ Prosty plugin na dość znany i popularny system administracyjny helpop z integracją discord 
